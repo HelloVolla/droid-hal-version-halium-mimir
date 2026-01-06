@@ -5,7 +5,7 @@
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Volla
-%define device_pretty Tablet
+%define device_pretty Volla Tablet
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
